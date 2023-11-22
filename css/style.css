@@ -78,7 +78,7 @@ a:focus {
 .top-bar {
     position: relative;
     height: 90px;
-    background: #fdbe33;
+    background: #ffffff;
 }
 
 .top-bar .logo {
@@ -155,7 +155,7 @@ a:focus {
 /**********************************/
 .nav-bar {
     position: relative;
-    background: #fdbe33;
+    background: #ffffff;
     transition: .3s;
 }
 
@@ -187,7 +187,7 @@ a:focus {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #fdbe33;
+    color: #e30b21;
     transition: none;
 }
 
@@ -205,9 +205,9 @@ a:focus {
 }
 
 .nav-bar .btn:hover {
-    color: #020873;
-    background: #fdbe33;
-    border-color: #fdbe33;
+    color: #ffffff;
+    background: #e30b21;
+    border-color: #e30b21;
 }
 
 @media (min-width: 992px) {
