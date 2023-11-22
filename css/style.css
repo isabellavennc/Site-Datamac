@@ -45,8 +45,8 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #fdbe33;
-    color: #121518;
+    background: #e30b21;
+    color: #ffffff;
     width: 44px;
     height: 44px;
     text-align: center;
@@ -59,8 +59,8 @@ a:focus {
 }
 
 .back-to-top:hover {
-    color: #fdbe33;
-    background: #121518;
+    color: #e30b21;
+    background: #ffffff;
 }
 
 .back-to-top i {
@@ -330,9 +330,9 @@ a:focus {
 }
 
 .carousel .carousel-caption .btn:hover {
-    color: #020873;
-    background: #fdbe33;
-    border-color: #fdbe33;
+    color: #ffffff;
+    background: #e30b21;
+    border-color: #e30b21;
 }
 
 @media (max-width: 767.98px) {
@@ -385,12 +385,12 @@ a:focus {
     margin-bottom: 45px;
     padding: 90px 0;
     text-align: center;
-    background: #fdbe33;
+    background: #e30b21;
 }
 
 .page-header h2 {
     position: relative;
-    color: #020873;
+    color: #ffffff;
     font-size: 60px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -404,14 +404,14 @@ a:focus {
     height: 2px;
     left: calc(50% - 50px);
     bottom: 0;
-    background: #020873;
+    background: #ffffff;
 }
 
 .page-header a {
     position: relative;
     padding: 0 12px;
     font-size: 22px;
-    color: #020873;
+    color: #f1f1f1;
 }
 
 .page-header a:hover {
@@ -426,7 +426,7 @@ a:focus {
     top: -2px;
     right: -7px;
     text-align: center;
-    color: #121518;
+    color: #ffffff;
 }
 
 .page-header a:last-child::after {
@@ -472,7 +472,7 @@ a:focus {
 }
 
 .section-header p {
-    color: #fdbe33;
+    color: #e30b21;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
@@ -505,8 +505,8 @@ a:focus {
 }
     
 .feature .col-md-12:nth-child(2n) {
-    color: #020873;
-    background: #fdbe33;
+    color: #ffffff;
+    background: #e30b21;
 }
 
 .feature .feature-item {
@@ -550,13 +550,13 @@ a:focus {
 }
 
 .feature .col-md-12:nth-child(2n) .feature-icon::after {
-    background: #fdbe33;
+    background: #e30b21;
 }
 
 .feature .feature-icon [class^="flaticon-"]::before {
     position: relative;
     margin: 0;
-    color: #fdbe33;
+    color: #ffffff;
     font-size: 60px;
     line-height: 60px;
     z-index: 3;
@@ -568,14 +568,14 @@ a:focus {
 
 .feature .feature-text h3 {
     margin: 0 0 10px 0;
-    color: #fdbe33;
+    color: #ffffff;
     font-size: 25px;
     font-weight: 600;
 }
 
 .feature .feature-text p {
     margin: 0;
-    color: #fdbe33;
+    color: #ffffff;
     font-size: 18px;
     font-weight: 400;
 }
@@ -583,7 +583,7 @@ a:focus {
 .feature .col-md-12:nth-child(2n) [class^="flaticon-"]::before,
 .feature .col-md-12:nth-child(2n) h3,
 .feature .col-md-12:nth-child(2n) p {
-    color: #020873;
+    color: #ffffff;
 }
 
 
@@ -622,14 +622,14 @@ a:focus {
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #020873;
+    color: #ffffff;
     border-radius: 0;
-    background: #fdbe33;
+    background: #e30b21;
     transition: .3s;
 }
 
 .about .about-text a.btn:hover {
-    color: #fdbe33;
+    color: #ffffff;
     background: #020873;
 }
 
@@ -775,7 +775,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #fdbe33;
+    color: #ffffff;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -792,8 +792,8 @@ a:focus {
     font-size: 60px;
     line-height: 60px;
     font-weight: 100;
-    color: #020873;
-    background: #fdbe33;
+    color: #ffffff;
+    background: #e30b21;
     border-radius: 0;
     transition: .3s;
 }
@@ -958,7 +958,7 @@ a:focus {
 .team .team-text h2 {
     font-size: 20px;
     font-weight: 600;
-    color: #fdbe33;
+    color: #ffffff;
     transition: .5s;
 }
 
@@ -968,11 +968,11 @@ a:focus {
 }
 
 .team .team-item:hover .team-text {
-    background: #fdbe33;
+    background: #e30b21;
 }
 
 .team .team-item:hover .team-text h2 {
-    color: #020873;
+    color: #ffffff;
     letter-spacing: 1px;
 }
 
@@ -1043,7 +1043,7 @@ a:focus {
     height: 100%;
     top: 0;
     left: calc(50% - .5px);
-    background: #fdbe33;
+    background: #e30b21;
 }
 
 .faqs #accordion-1 {
@@ -1097,14 +1097,15 @@ a:focus {
 }
 
 .faqs .card-header [data-toggle="collapse"][aria-expanded="true"] {
-    background: #fdbe33;
+    background: #e30b21;
+    color: #ffffff;
 }
 
 .faqs .card-header [data-toggle="collapse"]:after {
     font-family: 'font Awesome 5 Free';
     content: "\f067";
     float: right;
-    color: #fdbe33;
+    color: #e30b21;
     font-size: 12px;
     font-weight: 900;
     transition: .5s;
@@ -1114,7 +1115,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f068";
     float: right;
-    color: #020873;
+    color: #ffffff;
     font-size: 12px;
     font-weight: 900;
     transition: .5s;
@@ -1200,7 +1201,7 @@ a:focus {
 }
 
 .testimonial .testimonial-slider h3 {
-    color: #fdbe33;
+    color: #ffffff;
     font-size: 22px;
     font-weight: 700;
 }
@@ -1262,7 +1263,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 18px;
     font-weight: 700;
-    color: #fdbe33;
+    color: #ffffff;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -1279,8 +1280,8 @@ a:focus {
     font-size: 60px;
     line-height: 60px;
     font-weight: 100;
-    color: #020873;
-    background: #fdbe33;
+    color: #ffffff;
+    background: #e30b21;
     border-radius: 0;
     transition: .3s;
 }
@@ -1302,7 +1303,7 @@ a:focus {
     height: 1px;
     left: calc(50% - 50px);
     bottom: 0;
-    background: #fdbe33;
+    background: #e30b21;
 }
 
 .blog .blog-meta p {
@@ -1333,7 +1334,7 @@ a:focus {
 .blog .pagination .page-link {
     color: #020873;
     border-radius: 0;
-    border-color: #fdbe33;
+    border-color: #e30b21;
 }
 
 .blog .pagination .page-link:hover,
@@ -2075,7 +2076,7 @@ a:focus {
     padding-bottom: 10px;
     font-size: 20px;
     font-weight: 600;
-    color: #fdbe33;
+    color: #e30b21;
 }
 
 .footer h2::after {
@@ -2085,7 +2086,7 @@ a:focus {
     height: 2px;
     left: 0;
     bottom: 0;
-    background: #fdbe33;
+    background: #e30b21;
 }
 
 .footer .footer-link a {
@@ -2104,7 +2105,7 @@ a:focus {
 }
 
 .footer .footer-link a:hover {
-    color: #fdbe33;
+    color: #00acee;
     letter-spacing: 1px;
 }
 
@@ -2134,12 +2135,13 @@ a:focus {
 }
 
 .footer .footer-social a:hover {
-    background: #fdbe33;
-    border-color: #fdbe33;
+    background: #e30b21;
+    border-color: #e30b21;
+    
 }
 
 .footer .footer-social a:hover i {
-    color: #020873;
+    color: #ffffff;
 }
 
 .footer .newsletter .form {
@@ -2163,16 +2165,16 @@ a:focus {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #fdbe33;
-    background: #121518;
+    color: #ffffff;
+    background: #e30b21;
     border-radius: 0;
-    border: 2px solid #fdbe33;
+    border: 2px solid #e30b21;
     transition: .3s;
 }
 
 .footer .newsletter .btn:hover {
-    color: #121518;
-    background: #fdbe33;
+    color: #e30b21;
+    background: #ffffff;
 }
 
 .footer .footer-menu .f-menu {
@@ -2193,7 +2195,7 @@ a:focus {
 }
 
 .footer .footer-menu .f-menu a:hover {
-    color: #fdbe33;
+    color: #00acee;
 }
 
 .footer .footer-menu .f-menu a:last-child {
