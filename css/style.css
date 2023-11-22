@@ -22,6 +22,13 @@ a {
     transition: .3s;
 }
 
+hr {
+    border-radius: 60px;
+    background: #020873;
+    width: 100px;
+    float: left;
+}
+
 a:hover,
 a:active,
 a:focus {
@@ -668,7 +675,7 @@ a:focus {
     margin: 0;
     font-size: 60px;
     line-height: 60px;
-    background-image: linear-gradient(#ffffff, #fdbe33);
+    background-image: linear-gradient(#ffffff, #e30b21);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -696,17 +703,20 @@ a:focus {
 }
 
 .fact .fact-left {
-    color: #fdbe33;
+    color: #ffffff;
     background: #020873;
 }
 
 .fact .fact-right {
-    color: #020873;
-    background: #fdbe33;
+    color: #ffffff;
+    background: #e30b21;
 }
 
 .fact .fact-left h2 {
-    color: #fdbe33;
+    color: #ffffff;
+}
+.fact .fact-right h2 {
+    color: #ffffff;
 }
 
 
